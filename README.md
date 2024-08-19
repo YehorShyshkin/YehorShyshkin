@@ -19,7 +19,7 @@ The application is containerized with **Docker** and uses **PostgreSQL** for dat
 - **Key Features**:
     - Client and Manager Management
     - Account and Transaction Operations
-- [🔗 View Repository](https://github.com/YehorShyshkin/bank-service)
+- [🔗 View Repository](https://github.com/YehorShyshkin/BankServiceProject.git)
 
 #### 🚕 **Taxi Application**
 A taxi booking system that allows users to book rides, track drivers, and manage accounts. 
