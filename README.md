@@ -33,28 +33,44 @@ The system uses **Spring Boot** for backend services.
 
 ---
 
-### 🔧 Technologies & Tools
+# Skills and Expertise
 
-I work with a variety of technologies and tools to build high-quality software solutions. 
-Here are some of the key technologies I regularly use:
-
+## Technical Skills
 - **Backend**: Java, Spring Boot, Hibernate
-- **Databases**: PostgresQL, MySQL, H2, MongoDB
+- **Databases**: PostgreSQL, MySQL, H2, MongoDB
 - **Containerization & Orchestration**: Docker
 - **Testing**: JUnit, Mockito, Spring Boot Test, MockMvc, JaCoCo
 - **CI/CD**: GitHub Actions, Jenkins, Maven
 - **Cloud**: AWS, GCP
 - **Other**: MapStruct, Lombok
-- **Additional**:
-    - **Object-Oriented Programming (OOP)**
-    - **Postman**
-    - **IntelliJ IDEA**
-    - **Linux**
-    - **Jakarta Persistence (JPA)**
-    - **Representational State Transfer (REST)**
-    - **Git**
-    - **Spring**
-    - **SQL**
+
+## Core Competencies
+- **Object-Oriented Programming (OOP)**
+- **Representational State Transfer (REST)**
+- **Jakarta Persistence (JPA)**
+- **SQL**
+- **Git**
+- **Spring**
+
+## Tools & Platforms
+- **Postman**: API testing and interaction
+- **IntelliJ IDEA**: Integrated Development Environment (IDE)
+- **Linux**: Operating system for development and deployment
+
+## Additional Skills
+- **Financial Modeling**
+- **Strategic Planning**
+- **Project Management**
+- **A/B Testing**
+
+## Certifications & Training
+- **Backend Web Development(Online)** - [Certificate](screenshots/Certificate.pdf)
+
+## Languages
+- **Russian** (C2)
+- **English** (B1)
+- **German** (B1)
+
 ---
 
 ### 📫 Let's Connect
