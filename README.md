@@ -21,16 +21,6 @@ The application is containerized with **Docker** and uses **PostgreSQL** for dat
     - Account and Transaction Operations
 - [🔗 View Repository](https://github.com/YehorShyshkin/BankServiceProject.git)
 
-#### 🚕 **Taxi Application**
-A taxi booking system that allows users to book rides, track drivers, and manage accounts. 
-The system uses **Spring Boot** for backend services.
-
-- **Tech Stack**: Spring Boot, Docker, PostgreSQL
-- **Key Features**:
-    - Real-time ride booking and driver tracking
-    - Client and driver management
-- [🔗 View Repository](https://github.com/eusebiujacot/taxi-application)
-
 ---
 
 # Skills and Expertise
@@ -68,8 +58,9 @@ The system uses **Spring Boot** for backend services.
 
 ## Languages
 - **Russian** (C2)
-- **English** (B1)
+- **English** (B2)
 - **German** (B1)
+- **Ukrainian** (C2)
 
 ---
 
